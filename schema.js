@@ -1,4 +1,4 @@
-var mongoose = require('mongoose')
+const mongoose = require('mongoose')
 
 // Define collection and schema for todo item
 const todo = new mongoose.Schema({
